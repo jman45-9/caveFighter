@@ -7,8 +7,6 @@
 
 [node name="player" parent="." instance=ExtResource("1_rv022")]
 position = Vector2(39, 285)
-scale = Vector2(10, 10)
 
 [node name="enemy" parent="." instance=ExtResource("2_v05iy")]
-position = Vector2(428, 375)
-scale = Vector2(10, 10)
+position = Vector2(315, 317)
